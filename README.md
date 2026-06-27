@@ -16,3 +16,9 @@ This repository is not meant to replace individual project repositories. Instead
 Edit `docs/projects.js` and add or update a project entry.
 
 Each project repository should keep its own README and, when useful, a GitHub Pages page under that repository. Use `templates/project-page.md` as the starting structure.
+
+## Public Pages
+
+- `docs/index.html`: project index
+- `docs/guide/index.html`: maintenance guide
+- `docs/projects.js`: project metadata
